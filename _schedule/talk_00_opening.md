@@ -4,6 +4,8 @@ sequence_id: 0
 
 # Speaker name
 speaker: Organisers
+# Image
+img: microphone.png
 
 # Title of the event
 title: Opening remarks
