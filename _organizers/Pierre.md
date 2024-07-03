@@ -6,9 +6,9 @@ name: Pierre-Yves Lajoie
 webpage: https://lajoiepy.github.io/
 
 # Primary affiliation
-affil: Astrolith
+affil: MISTLab
 # Link to the primary affiliation
-affil_link: https://www.polymtl.ca/astrolith/en
+affil_link: https://github.com/MISTLab
 
 # Primary affiliation
 affil2: Polytechnique Montreal
