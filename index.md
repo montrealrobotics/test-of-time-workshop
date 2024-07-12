@@ -11,7 +11,6 @@ layout: home
 
 1. [**Invited Speakers**:](speakers) Steven Waslander (Toronto), Margarita Chli (ETH Zurich and UCY) and Luca Carlone (MIT). More info [here](speakers).
 2. [**Organizers**](organizers): Liam Paull, Miguel Saavedra, Pierre-Yves Lajoie, Samer Nashed, Victor Romero-Cano, Malika Meghjani and John Leonard. More info [here](organizers).
-3. [**Schedule**](): TBD
 4. [**Call For Papers**](callforpapers): Submit your paper [here](callforpapers)!
 
 Accurate, informative, and scalable world representations are an essential component of highly autonomous mobile robots and have been an important topic of research for several decades. As robots become more capable, deploying in larger and more dynamic, varied environments, requires for such representations to grow apace. 
