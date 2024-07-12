@@ -38,7 +38,7 @@ header_pages:
 - speakers.md
 - organizers.md
 - callforpapers.md
-- schedule.md
+# - schedule.md
 #- papers.md
 - contactus.md
 

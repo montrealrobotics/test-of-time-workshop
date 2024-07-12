@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Call for papers
+title: Call for Papers
 permalink: /callforpapers/
 ---
 
