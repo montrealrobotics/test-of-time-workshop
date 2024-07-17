@@ -3,7 +3,7 @@
 sequence_id: 0
 
 # Speaker name
-speaker: Organisers
+speaker: Organizers
 # Image
 img: microphone.png
 
@@ -11,5 +11,5 @@ img: microphone.png
 title: Opening remarks
 
 # Time of the event
-time: 08:30 - 08:35
+time: 13:30 - 13:35
 ---

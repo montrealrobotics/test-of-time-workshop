@@ -1,8 +1,8 @@
 ---
-sequence_id: 5
-speaker: Organisers
+sequence_id: 6
+speaker: Organisezs
 # Image
 img: medal.png
 title: Awards and closing remarks 
-time: 11:35 - 11:45
+time: 16:35 - 16:40
 ---

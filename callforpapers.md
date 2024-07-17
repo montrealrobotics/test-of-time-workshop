@@ -27,3 +27,16 @@ With these goals and challenges in mind, we extend a call for the following type
 **Position papers (4-8 pages).** Position papers look to the future and argue for the importance of certain techniques, questions, evaluation paradigms, design philosophies, etc. in future research. They may also elaborate on particular tradeoffs presented by newer learning and representation techniques or develop a view of new difficulties facing state-of-the-art systems as they are deployed in ever more challenging domains.
 
 This workshop is non-archival, and thus we are happy to review submissions that are concurrently under review elsewhere or have already been published in whole or in part.
+
+**Submission Instructions**: Coming soon...
+
+--- 
+
+### Important deadlines (subject to change)
+
+- **Submission Deadline**: Sunday, Sept 1, 2024, by 11:59 PM EDT
+- **Reviews due**: Friday, Sep 20, 2024, by 11:59 PM EDT
+- **Acceptance Notification**: Tuesday, Oct 1, 2024
+- **Camera-ready submission**: Tuesday, Oct 8, 2024, by 11:59 PM EDT
+- **Workshop**: Monday, October 14, 2024
+- **Location**: Room 17, more info to come!
