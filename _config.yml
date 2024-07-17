@@ -38,7 +38,7 @@ header_pages:
 - speakers.md
 - organizers.md
 - callforpapers.md
-- schedule.md
+# - schedule.md
 #- papers.md
 - contactus.md
 
@@ -62,9 +62,9 @@ collections:
     output: true
   organizers:
     output: true
-  schedule:
-    sort_by: sequence_id
-    output: true
+  # schedule:
+  #   sort_by: sequence_id
+  #   output: true
   papers:
     sort_by: sequence_id
     output: false
