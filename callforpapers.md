@@ -28,7 +28,7 @@ With these goals and challenges in mind, we extend a call for the following type
 
 This workshop is non-archival, and thus we are happy to review submissions that are concurrently under review elsewhere or have already been published in whole or in part.
 
-**Submission Instructions**: Coming soon...
+**Submission Instructions**: Submit your papers [here](https://easychair.org/conferences/?conf=retromapiros2024)!
 
 --- 
 
