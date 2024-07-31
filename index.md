@@ -22,3 +22,12 @@ Such a moment offers an opportunity for retrospection: to consider lessons from 
 
 ![](assets/img/dalle_generated_banner.png)
 
+
+
+### Program Committee Members
+- [Clara Gomez Blasquez](http://roboticslab.uc3m.es/roboticslab/people/c-g%C3%B3mez)
+- [Amanda Adkins ](https://mandi1267.github.io/)
+- [Jens Behley ](https://www.ipb.uni-bonn.de/people/jens-behley/index.html)
+- [Alan Papalia ](https://alanpapalia.github.io/)
+- [Matias Mattamala ](https://mmattamala.github.io/)
+- [Yun Chang ](https://scholar.google.com/citations?user=IHKUFhcAAAAJ&hl=en)
