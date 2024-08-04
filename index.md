@@ -32,3 +32,4 @@ Such a moment offers an opportunity for retrospection: to consider lessons from 
 - [Matias Mattamala ](https://mmattamala.github.io/)
 - [Yun Chang ](https://scholar.google.com/citations?user=IHKUFhcAAAAJ&hl=en)
 - [Özgür Erkent](https://web.cs.hacettepe.edu.tr/~ozgurerkent/)
+- [Edgar Sucar](https://edgarsucar.github.io/)
