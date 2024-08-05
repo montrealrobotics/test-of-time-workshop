@@ -25,6 +25,7 @@ Such a moment offers an opportunity for retrospection: to consider lessons from 
 
 
 ### Program Committee Members
+- [Tom Duckett](https://staff.lincoln.ac.uk/tduckett)
 - [Clara Gomez Blasquez](http://roboticslab.uc3m.es/roboticslab/people/c-g%C3%B3mez)
 - [Amanda Adkins ](https://mandi1267.github.io/)
 - [Jens Behley ](https://www.ipb.uni-bonn.de/people/jens-behley/index.html)
@@ -33,3 +34,5 @@ Such a moment offers an opportunity for retrospection: to consider lessons from 
 - [Yun Chang ](https://scholar.google.com/citations?user=IHKUFhcAAAAJ&hl=en)
 - [Özgür Erkent](https://web.cs.hacettepe.edu.tr/~ozgurerkent/)
 - [Edgar Sucar](https://edgarsucar.github.io/)
+- [Manuel Diaz Zapata](https://scholar.google.com/citations?user=hM_mm8MAAAAJ&hl=en)
+- [Kevin Doherty](https://people.csail.mit.edu/kdoherty/)
