@@ -1,0 +1,61 @@
+---
+layout: default
+---
+
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class = "post-content">
+	  <table style="border-collapse: collapse; border: none;">
+	  	{% for panellist in site.panel %}
+		    <tr style="border: none;">
+		        <td style="border: none;">
+		            <div class="col-xs-6">
+		                <p align="center">
+		                	{% if panellist.img %}
+		                    	<img class="people-pic" src="{{ panellist.img | prepend: '/assets/img/panel/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
+		                    {% else %}
+		                    	<img class="people-pic" src="{{ 'avatar.jpg' | prepend: '/assets/img/panel/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
+		                    {% endif %}
+		                </p>
+		            </div>
+		        </td>
+		        <td style="border: none;">
+		            <div class="people-name text-center">
+		            	<!-- panel name (link to webpage if provided) -->
+		            	{% if panellist.webpage %}
+		            		<b><a href="{{ panellist.webpage }}" target="_blank">{{ panellist.name }}</a></b>
+		            	{% else %}
+		            		<b>{{ panellist.name }}</b>
+		            	{% endif %}
+		                <br>
+		                <!-- panel affiliation (if provided) -->
+		                {% if panellist.affil_link %}
+		                	<a href="{{ panellist.affil_link }}" target="_blank">{{ panellist.affil }}</a>
+		                {% else %}
+		                	{{ panellist.affil }}
+		                {% endif %}
+		                <!-- Additional panel affiliation (if provided) -->
+		                {% if panellist.affil2_link %}
+		                	<br>
+		                	<a href="{{ panellist.affil2_link }}" target="_blank">{{ panellist.affil2 }}</a>
+		                {% elsif panellist.affil2 %}
+		                	<br>
+		                	{{ panellist.affil2 }}
+		                {% endif %}
+		            </div>
+		        </td>
+		        <td style="border: none;">
+		        	<div class="people-name text-center">
+		        		{{ panellist.content }}
+		        	</div>
+		        </td>
+		    </tr>
+	    {% endfor %}
+	  </table>
+  </div>
+
+</article>
