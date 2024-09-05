@@ -1,6 +1,7 @@
 ---
 sequence_id: 5
-speaker: TBD
+speaker: Check out our panelists!
+webpage: ../panel
 title: Panel Discussion
 # Image
 img: panel.png

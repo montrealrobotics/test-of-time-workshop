@@ -1,6 +1,6 @@
 ---
 sequence_id: 6
-speaker: Organisezs
+speaker: Organisers
 # Image
 img: medal.png
 title: Awards and closing remarks 
