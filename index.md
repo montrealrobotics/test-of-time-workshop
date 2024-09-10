@@ -38,5 +38,5 @@ Such a moment offers an opportunity for retrospection: to consider lessons from 
 - [Kevin Doherty](https://people.csail.mit.edu/kdoherty/)
 - [Helen Oleynikova](https://helenol.github.io/)
 - [Hidenobu Matsuki](https://muskie82.github.io/)
-- [Olov Andersson](https://www.kth.se/profile/olovand)
 - [Jingxing Qian](https://scholar.google.ca/citations?user=OZk7X80AAAAJ&hl=en)
+- [Olov Andersson](https://www.kth.se/profile/olovand)
