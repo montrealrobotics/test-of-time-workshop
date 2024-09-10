@@ -1,13 +1,11 @@
 ---
 sequence_id: 3
-speaker: Margarita Chli
-webpage: https://www.v4rl.com/blog/dr-chli-margarita/the-lab
-affil: Vision for Robotics Lab at ETH Zurich
-affil_link: https://ethz.ch/en.html
+speaker: Michael Milford
+webpage: https://www.qut.edu.au/about/our-people/academic-profiles/michael.milford
+affil: Faculty of Engineering, School of Electrical Engineering & Robotics
+affil_link: https://www.qut.edu.au/about/faculty-of-engineering/school-of-electrical-engineering-and-robotics
 # Image
-img: Margarita.png
-affil2: Professor at the University of Cyprus
-affil2_link: https://www.ucy.ac.cy/?lang=en
+img: michael.jpeg
 title: TBD
 time: 15:05 - 15:30
 ---
