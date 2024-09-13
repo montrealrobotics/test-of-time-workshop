@@ -4,5 +4,5 @@ speaker: ---
 title: Coffee Break
 # Image
 img: communication.png
-time: 15:30 - 15:45
+time: 15:40 - 15:55
 ---

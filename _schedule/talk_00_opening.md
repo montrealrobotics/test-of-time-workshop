@@ -4,6 +4,7 @@ sequence_id: 0
 
 # Speaker name
 speaker: Organizers
+webpage: ../organizers
 # Image
 img: microphone.png
 

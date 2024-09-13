@@ -1,8 +1,8 @@
 ---
-sequence_id: 7
+sequence_id: 3
 speaker: ---
 # Image
 img: poster.png
 title: Poster session
-time: 16:40 - 17:30
+time: 15:05 - 15:40
 ---
