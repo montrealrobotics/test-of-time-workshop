@@ -38,8 +38,8 @@ This workshop is non-archival, and thus we are happy to review submissions that 
 ### Important deadlines (final)
 
 - **Submission Deadline**: Friday, Sep 20, 2024, by 11:59 PM EDT
-- **Reviews due**: Tuesday, October 1, 2024, by 11:59 PM EDT
-- **Acceptance Notification**: Tuesday, Oct 8, 2024
+- **Reviews due**: Monday, Sep 30, 2024, by 11:59 PM EDT
+- **Acceptance Notification**: Tuesday, Oct 1, 2024
 - **Camera-ready submission**: Sunday, Oct 13, 2024, by 11:59 PM EDT
 - **Workshop**: Monday, October 14, 2024
 - **Location**: October 14 from 1:30pm to 5:30pm, Meeting Room 17. 
