@@ -20,9 +20,9 @@ Handling multiple data modalities, abstraction levels, and types of information 
 
 Such a moment offers an opportunity for retrospection: to consider lessons from previous eras of research that have stood the test of time, to carry such lessons forward into an age of research dominated by models relying on latent representations, and to understand in hindsight the limits and blind spots of previous paradigms. Looking forward, we also hope to: make progress understanding the tradeoffs presented by newer learning and representation techniques, share and discuss new examples of  state-of-the-art technical approaches for robotic mapping and modeling, and develop a shared view of the new frontier of challenges facing such systems as they are deployed in ever more challenging domains.
 
+**This proposed workshop is supported by IEEE Robotics & Automation Society Technical Committee on Algorithms for Planning and Control of Robot Motion.**
+
 ![](assets/img/dalle_generated_banner.png)
-
-
 
 ### Program Committee Members
 - [Tom Duckett](https://staff.lincoln.ac.uk/tduckett)
