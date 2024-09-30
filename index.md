@@ -38,7 +38,8 @@ Such a moment offers an opportunity for retrospection: to consider lessons from 
 
 ---
 
-<div style="display: flex; align-items: center;">
+<!-- <div style="display: flex; align-items: center;">
     <strong>This workshop is supported by the IEEE Robotics & Automation Society Technical Committee on Algorithms for Planning and Control of Robot Motion.</strong>
     <img src="assets/img/ras_logo.png" alt="RAS Logo" style="margin-left: 10px; width: 200px; height: auto;" />
-</div>
+</div> -->
+This workshop is supported by the [IEEE Robotics & Automation Society Technical Committee on Algorithms for Planning and Control of Robot Motion](https://www.ieee-ras.org/algorithms-for-planning-and-control-of-robot-motion).
