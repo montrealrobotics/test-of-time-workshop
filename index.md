@@ -33,8 +33,8 @@ Such a moment offers an opportunity for retrospection: to consider lessons from 
 - [Özgür Erkent](https://web.cs.hacettepe.edu.tr/~ozgurerkent/)
 - [Manuel Diaz Zapata](https://scholar.google.com/citations?user=hM_mm8MAAAAJ&hl=en)
 - [Kevin Doherty](https://people.csail.mit.edu/kdoherty/)
-- [Jingxing Qian](https://scholar.google.ca/citations?user=OZk7X80AAAAJ&hl=en)
 - [Olov Andersson](https://www.kth.se/profile/olovand)
+- [Jingxing Qian](https://scholar.google.ca/citations?user=OZk7X80AAAAJ&hl=en)
 
 ---
 
