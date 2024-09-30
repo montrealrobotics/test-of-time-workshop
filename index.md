@@ -30,20 +30,15 @@ Such a moment offers an opportunity for retrospection: to consider lessons from 
 - [Amanda Adkins ](https://mandi1267.github.io/)
 - [Jens Behley ](https://www.ipb.uni-bonn.de/people/jens-behley/index.html)
 - [Matias Mattamala ](https://mmattamala.github.io/)
-- [Alan Papalia ](https://alanpapalia.github.io/)
-- [Yun Chang ](https://scholar.google.com/citations?user=IHKUFhcAAAAJ&hl=en)
 - [Özgür Erkent](https://web.cs.hacettepe.edu.tr/~ozgurerkent/)
-- [Edgar Sucar](https://edgarsucar.github.io/)
 - [Manuel Diaz Zapata](https://scholar.google.com/citations?user=hM_mm8MAAAAJ&hl=en)
 - [Kevin Doherty](https://people.csail.mit.edu/kdoherty/)
-- [Helen Oleynikova](https://helenol.github.io/)
-- [Hidenobu Matsuki](https://muskie82.github.io/)
 - [Jingxing Qian](https://scholar.google.ca/citations?user=OZk7X80AAAAJ&hl=en)
 - [Olov Andersson](https://www.kth.se/profile/olovand)
 
 ---
 
 <div style="display: flex; align-items: center;">
-    <strong>This workshop is supported by IEEE Robotics & Automation Society Technical Committee on Algorithms for Planning and Control of Robot Motion.</strong>
+    <strong>This workshop is supported by the IEEE Robotics & Automation Society Technical Committee on Algorithms for Planning and Control of Robot Motion.</strong>
     <img src="assets/img/ras_logo.png" alt="RAS Logo" style="margin-left: 10px; width: 200px; height: auto;" />
 </div>
