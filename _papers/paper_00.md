@@ -3,17 +3,17 @@
 sequence_id: 0
 
 # Paper title
-title: gradSLAM - Automagically differentiable SLAM
+title: Does Sample Space Matter? Preliminary Results on Keyframe Sampling Optimization for LiDAR-based Place Recognition
 
 # Paper authors
-authors: Krishna Murthy Jatavallabhula, Soroush Saryazdi, Ganesh Iyer, and Liam Paull
+authors: Nikolaos Stathoulopoulos, Vidya Sumathy, Christoforos Kanellakis and George Nikolakopoulos
 
 # Author affiliations
-affil: Mila, Universite de Montreal, Concordia University, and Carnegie Mellon University
+affil: Lulea University of Technology
 
 # Link to the paper's pdf (place in the `assets/pdf/papers` directory)
-pdf: 00.pdf
+pdf: Does_Sample_Space_Matter__Preliminary_Results_on_Keyframe_Sampling_Optimization_for_LiDAR_based_Place_Recognition.pdf
 
 # Link to a representative image for the paper (place in the `assets/img/papers` directory)
-img: 00.png
+img: Does_Sample_Space_Matter__Preliminary_Results_on_Keyframe_Sampling_Optimization_for_LiDAR_based_Place_Recognition.png
 ---
